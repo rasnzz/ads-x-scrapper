@@ -14,8 +14,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <your-repo-url>
-cd twitter-email-scraper
+git clone https://github.com/rasnzz/ads-x-scrapper.git
+cd ads-x-scrapper
 ```
 
 2. Установите зависимости:
