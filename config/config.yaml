@@ -1,0 +1,14 @@
+adspower:
+  api_base_url: "http://local.adspower.net:50325"
+  # user_id профиля (найти через /api/v1/user/list или в интерфейсе)
+  user_id: "k1bbeetl"
+  headless: false
+
+scraper:
+  input_file: "data/input.txt"
+  output_dir: "data/output"
+  output_format: "csv"
+  max_urls: 0
+  delay_between_urls: 5
+  timeout_seconds: 30
+  close_extra_tabs: true
