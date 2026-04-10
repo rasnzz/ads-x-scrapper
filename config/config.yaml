@@ -1,7 +1,7 @@
 adspower:
-  api_base_url: "http://local.adspower.net:50325"
+  api_base_url: "СЮДА API"
   # user_id профиля (найти через /api/v1/user/list или в интерфейсе)
-  user_id: "k1bbeetl"
+  user_id: "CЮДА USER ID"
   headless: false
 
 scraper:
